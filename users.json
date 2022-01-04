@@ -11,5 +11,10 @@
     "email": "test3@test.com",
     "password": "zxcv",
     "id": "3aefce6e"
+  },
+  {
+    "email": "somnus@somnus.com",
+    "password": "password",
+    "id": "02cd4729"
   }
 ]
