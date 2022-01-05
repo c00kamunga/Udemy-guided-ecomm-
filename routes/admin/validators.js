@@ -1,5 +1,5 @@
 const { check } = require('express-validator');
-const usersRepo = require('../../repositories');
+const usersRepo = require('../../repositories/users');
 
 module.exports = {
   requireEmail: check('email')
@@ -14,11 +14,11 @@ module.exports = {
         throw new Error('Email in use');
       }
     }),
-    requirePassword: check('password')
+  requirePassword: check('password')
     .trim()
     .isLength({ min: 4, max: 20 })
     .withMessage('Must be between 4 and 20 characters'),
-    requirePasswordConfirmation: check('passwordConfirmation')
+  requirePasswordConfirmation: check('passwordConfirmation')
     .trim()
     .isLength({ min: 4, max: 20 })
     .withMessage('Must be between 4 and 20 characters')
@@ -26,4 +26,5 @@ module.exports = {
       if (passwordConfirmation !== req.body.password) {
         throw new Error('Passwords must match');
       }
+    }),
 };
