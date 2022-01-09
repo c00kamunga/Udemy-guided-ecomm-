@@ -26,5 +26,50 @@
     "email": "haha@haha.com",
     "password": "d15e8d7aca3a56b3bc622ae92cd9e592e52934c428021d1f1e5d9020c353bdd717bcfe285bde06c825b208ca2c349974db49fa3d2d9adb4c0c1f7e9b2c9c4d4e.03823e40fee348fd",
     "id": "d3831c68"
+  },
+  {
+    "email": "@asdf",
+    "password": "1ddfe3b7108fd745a607bd30de8cec2bb8bd1ac6839273fb740a81954636fe66196688457df83c58c835f90811d03d86c7ca2f62a4e5e0455701f8d6fdc92894.575fd62648dc44b6",
+    "id": "8ae05f85"
+  },
+  {
+    "email": "@efse",
+    "password": "3b7228486846348eca807038f035bccc7f9ad1278bb845446beb6ae1063e2180c41782ba216d211588dc00a1c86aa6523a630bc9a1b6c8b8db5f852c39e0061d.e4682d0af1ca2096",
+    "id": "ee861b93"
+  },
+  {
+    "email": "fun@fun.com",
+    "password": "dd1cf17653cc2691e3d5ea0c27bc4c959540ed8fcee833b53d9ded6093fd778d7b434fd3427ba23d81f5636683d033bc7c14c116cd2b6312ce5c42b15be25e33.e44f9378f45d628c",
+    "id": "35769f67"
+  },
+  {
+    "email": "you@you.com",
+    "password": "c6ad51ccd58e3310f07a21f040443c952c8ec0ac62aaabc4738ee3307b2721781ff0eca4c573093ff63d34d65cc7118163c425f716462d8240ebf6b3d255f052.71bb13dc38397506",
+    "id": "c9051c8d"
+  },
+  {
+    "email": "hungry@food.com",
+    "password": "b5eb1c00d56d547f27d05e9373b046778d761e44aca2af8d901ada204724f031432a929756a1b01d5d037a629bce6569849e07137be8b3f8c6eaeb12f1e21950.628030f1340a1434",
+    "id": "a9f176b9"
+  },
+  {
+    "email": "rage@rage.com",
+    "password": "95c9a5db87aad9c927eb4e6a6005b340abaae0b087272a2a66370d9b78ed78a64c66f82eaeca2705f2ffadc4d2cfdd14d052203b7d5cedf9fc4a232ea7cb01ca.7b0b49fdf32e77c0",
+    "id": "5f9e39f7"
+  },
+  {
+    "email": "king@king.com",
+    "password": "fe141463fcd9ab22d3bade2ececbc07c32ee4168de60f1428fb26096089a6f03932e49fdc641f8e48669ad0e13ee6269fe946c3b8323b22918d0cd5f48792250.c4375908f4878656",
+    "id": "adf15e65"
+  },
+  {
+    "email": "police@police.com",
+    "password": "0d75e9d794fbab88b82645e90a8621f0dc61ec388cc50ea92ac338bb6f7245f3518e68e35c6ae028b378a1b816a054331cf2b9143b1deee8a517505763c75467.e0c681eecbc951c2",
+    "id": "ca5129f1"
+  },
+  {
+    "email": "cake@cake.com",
+    "password": "4fc6265b93fddfb7bb419bab96d3762ee6c2e3d8d670452357c8cc9bab5f273f1c8ee6e5d681acfdb3b665072f32cd9e1e204d2bf551188c5a300ca873e79e35.ae44dc89c933cc55",
+    "id": "55b50a72"
   }
 ]
